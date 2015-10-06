@@ -1,0 +1,59 @@
+#hotbod {
+  margin: 0 auto 0 auto;
+  max-width: 623px;
+}
+
+
+.top {
+  color: #fff;
+  background-color: #580005;
+  padding: 20px;
+}
+
+.top a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+#box1 {
+  height: 385px;
+  background: #F31C18;
+}
+
+
+.box2 {
+  height: 225px;
+  background: #580005;
+  margin: 64px 10px 32px 10px;
+
+}
+.border{
+  border-bottom: 1px solid black;
+}
+
+
+#box3 {
+  height: 917px;
+  background-color: #250000;
+
+}
+
+#box4 {
+  background-color: #A7000E;
+  padding: 140px 32px 70px 32px;
+
+
+}
+
+#box5 {
+  background-color: #DE7E7D;
+  height: 412px;
+
+
+}
+
+#box6 {
+  background-color: black;
+  height: 204px;
+}
